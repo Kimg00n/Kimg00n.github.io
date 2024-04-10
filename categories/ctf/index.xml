@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>CTF - Category - kimg00n&#39;s blog</title>
-        <link>http://blog.pwnable.net/categories/ctf/</link>
+        <link>http://localhost:1313/categories/ctf/</link>
         <description>CTF - Category - kimg00n&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>kevin1226716@gmail.com (kimg00n)</managingEditor>
-            <webMaster>kevin1226716@gmail.com (kimg00n)</webMaster><lastBuildDate>Sun, 07 Apr 2024 22:13:05 &#43;0900</lastBuildDate><atom:link href="http://blog.pwnable.net/categories/ctf/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>kevin1226716@gmail.com (kimg00n)</webMaster><lastBuildDate>Sun, 07 Apr 2024 22:13:05 &#43;0900</lastBuildDate><atom:link href="http://localhost:1313/categories/ctf/" rel="self" type="application/rss+xml" /><item>
     <title>WxMCTF 2024</title>
-    <link>http://blog.pwnable.net/wxmctf_2024/</link>
+    <link>http://localhost:1313/wxmctf_2024/</link>
     <pubDate>Sun, 07 Apr 2024 22:13:05 &#43;0900</pubDate>
     <author>kimg00n</author>
-    <guid>http://blog.pwnable.net/wxmctf_2024/</guid>
+    <guid>http://localhost:1313/wxmctf_2024/</guid>
     <description><![CDATA[WxMCTF 2024 Pwnable Challenge Write-Up]]></description>
 </item>
 </channel>
