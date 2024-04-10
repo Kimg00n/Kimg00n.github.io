@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - kimg00n&#39;s blog</title>
+        <link>http://blog.pwnable.net/tags/</link>
+        <description>Tags - Tag - kimg00n&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>kevin1226716@gmail.com (kimg00n)</managingEditor>
+            <webMaster>kevin1226716@gmail.com (kimg00n)</webMaster><lastBuildDate>Sun, 07 Apr 2024 22:13:05 &#43;0900</lastBuildDate><atom:link href="http://blog.pwnable.net/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Pwn</title>
+    <link>http://blog.pwnable.net/tags/pwn/</link>
+    <pubDate>Sun, 07 Apr 2024 22:13:05 &#43;0900</pubDate>
+    <author>kimg00n</author>
+    <guid>http://blog.pwnable.net/tags/pwn/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Write-Up</title>
+    <link>http://blog.pwnable.net/tags/write-up/</link>
+    <pubDate>Sun, 07 Apr 2024 22:13:05 &#43;0900</pubDate>
+    <author>kimg00n</author>
+    <guid>http://blog.pwnable.net/tags/write-up/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
