@@ -5,6 +5,14 @@
         <description>All Posts | kimg00n&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>kevin1226716@gmail.com (kimg00n)</managingEditor>
             <webMaster>kevin1226716@gmail.com (kimg00n)</webMaster><lastBuildDate>Sun, 07 Apr 2024 22:13:05 &#43;0900</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>DefCamp CTF 2024 Qual</title>
+    <link>http://localhost:1313/defcampctfqual_2024/</link>
+    <pubDate>Sun, 07 Apr 2024 22:13:05 &#43;0900</pubDate>
+    <author>kimg00n</author>
+    <guid>http://localhost:1313/defcampctfqual_2024/</guid>
+    <description><![CDATA[DefCamp CTF 2024 Qual Pwnable Challenge Write-Up]]></description>
+</item>
+<item>
     <title>WxMCTF 2024</title>
     <link>http://localhost:1313/wxmctf_2024/</link>
     <pubDate>Sun, 07 Apr 2024 22:13:05 &#43;0900</pubDate>

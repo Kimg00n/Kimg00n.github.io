@@ -35,14 +35,16 @@
 
 # 🚩CTFs
 
-- `2023.01` Iris CTF 2023 22th place in `APT0`
-- `2023.03` Wolv CTF 2023 6th place in `SaturnX`
-- `2023.05` DEFCON31 Qual 17th place in `untitled`
-- `2023.08` ESCAPE CTF 2023 Pre 6th place in `한입보이`
-- `2023.08` Samsung Security Tech Forum CTF 6th place in `SaturnX`
-- `2024.02` ESCAPE CTF 2023 Final 4th place in `SaturnX`
-- `2024.03` WxMCTF 2024 2th place in `Megaricano`
-- `2024.03` VolgaCTF 2024 Qualifier 6th place in `SaturnX`
+- `2023.03` Wolv CTF 2023 `6th` place in `SaturnX`
+- `2023.05` DEFCON31 Qual `17th` place in `untitled`
+- `2023.08` ESCAPE CTF 2023 Pre `6th` place in `한입보이`
+- `2023.08` Samsung Security Tech Forum CTF `6th` place in `SaturnX`
+- `2024.02` ESCAPE CTF 2023 Final `4th` place in `SaturnX`
+- `2024.03` WxMCTF 2024 `2nd` place in `Megaricano`
+- `2024.03` VolgaCTF 2024 Qualifier `6th` place in `SaturnX`
+- `2024.08` CCE 2024 Qualifier Gov division `Finalist` in `KRAF`
+- `2024.09` CCE 2024 Final Gov division `6th place` in `KRAF`
+- `2024.09` Defcamp CTF 2024 Qualifier `Finalist` in `SaturnX`
 - etc…
 
 # 🏆 Awards
