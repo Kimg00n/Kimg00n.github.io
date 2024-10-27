@@ -4,10 +4,10 @@
         <link>http://localhost:1313/categories/ctf/</link>
         <description>CTF - Category - kimg00n&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>kevin1226716@gmail.com (kimg00n)</managingEditor>
-            <webMaster>kevin1226716@gmail.com (kimg00n)</webMaster><lastBuildDate>Sun, 27 Oct 2024 16:34:56 &#43;0900</lastBuildDate><atom:link href="http://localhost:1313/categories/ctf/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>kevin1226716@gmail.com (kimg00n)</webMaster><lastBuildDate>Sun, 27 Oct 2024 18:55:56 &#43;0900</lastBuildDate><atom:link href="http://localhost:1313/categories/ctf/" rel="self" type="application/rss+xml" /><item>
     <title>Isitdtuctf2024_qual</title>
     <link>http://localhost:1313/isitdtuctf2024_qual/</link>
-    <pubDate>Sun, 27 Oct 2024 16:34:56 &#43;0900</pubDate>
+    <pubDate>Sun, 27 Oct 2024 18:55:56 &#43;0900</pubDate>
     <author>kimg00n</author>
     <guid>http://localhost:1313/isitdtuctf2024_qual/</guid>
     <description><![CDATA[ISITDTU CTF 2024 Qual Pwnable Challenge Write-Up]]></description>
