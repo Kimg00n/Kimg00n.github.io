@@ -6,7 +6,7 @@
 - Raon Secure Core Research Team
 - Konyang Univ, Cyber Security undergraduate
 - Interested in **Pwnable**
-- In [SaturnX](https://blog.satx.kr/about/) Team(CTF Player)
+- In [SaturnX](https://www.saturnx.blog/) Team(CTF Player)
 
 # Skills
 
